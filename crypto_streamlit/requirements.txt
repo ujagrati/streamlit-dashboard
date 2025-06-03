@@ -6,4 +6,4 @@ prophet
 scikit-learn
 tensorflow
 newsapi-python
-statsmodel
+statsmodels
