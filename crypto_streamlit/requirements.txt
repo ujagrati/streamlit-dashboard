@@ -1,0 +1,9 @@
+streamlit
+pandas
+plotly
+numpy
+prophet
+scikit-learn
+tensorflow
+newsapi-python
+statsmodel
